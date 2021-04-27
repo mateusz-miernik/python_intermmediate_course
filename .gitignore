@@ -127,5 +127,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-sendmail.py
 simple_calc_with_excel_output.py
